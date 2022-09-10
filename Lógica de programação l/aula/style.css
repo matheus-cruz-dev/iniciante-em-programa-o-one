@@ -1,0 +1,25 @@
+:root {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+}
+
+h1 {
+  font-size: 1.8rem;
+}
+
+h2 {
+  font-size: 1.6rem;
+  color: black;
+}
+
+a {
+  text-decoration: underline;
+  color: black;
+}
+
+input {
+  margin-bottom: 1rem;
+}
